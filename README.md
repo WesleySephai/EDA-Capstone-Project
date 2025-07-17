@@ -1,7 +1,7 @@
 # Capstone-Project
 
 ## Exploratory Data Analysis
-In this project, you would explore the Data preprocessing techniques learned. You will use, pandas, plots and the different data preprocessing techniques to explore and analyse the data. This project is on Exploratory Data Analysis
+In this project, we would explore the Data preprocessing techniques learned. We will use, pandas, plots and the different data preprocessing techniques to explore and analyse the data. This project is on Exploratory Data Analysis
 
 ## Machine Learning
 In this project, we develop a machine learning model to detect diabetes. Perform data cleaning and transformation. Handle null 
